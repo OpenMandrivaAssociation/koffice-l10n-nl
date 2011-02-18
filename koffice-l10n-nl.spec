@@ -1,5 +1,5 @@
 Name: koffice-l10n-nl
-Version: 2.3.1
+Version: 2.3.2
 Release: %mkrel 1
 Summary: Language files for KOffice Dutch
 Group: System/Internationalization
